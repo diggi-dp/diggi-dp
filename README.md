@@ -1,7 +1,20 @@
 ### Hi there 👋, i am Digpal Singh Mandloi
 
 # 💫 About Me:
-Proficient in React.js and experienced in Next.js for building robust web applications.<br>Actively seeking collaboration opportunities to leverage my React.js skills in innovative projects.<br>Currently diving deeper into React.js ecosystem, focusing on advanced techniques and best practices.<br>Passionate about front-end development and UI/UX design principles in React.js applications.<br>Ask me about optimizing performance and scalability in React.js projects.<br>Excited about the potential of server-side rendering and static site generation with Next.js.<br>Interested in discussing best practices for component-based architecture in React.js.<br>Eager to contribute to open-source projects related to React.js and Next.js ecosystems.<br>Continuously learning and experimenting with new libraries and tools to enhance React.js development workflows.<br>Let's connect and share insights on building cutting-edge web applications with React.js and Next.js.
+🚀 Proficient in React.js and experienced in Next.js for building robust web applications.
+
+🔍 Currently diving deeper into React.js ecosystem, focusing on advanced techniques and best practices.
+
+💻 Passionate about front-end development and UI/UX design principles in React.js applications.
+
+💡 Ask me about optimizing performance and scalability in React.js projects.
+
+🏗️ Interested in discussing best practices for component-based architecture in React.js.
+
+📚 Continuously learning and experimenting with new libraries and tools to enhance React.js development workflows.
+
+🤝 Let’s connect and share insights on building cutting-edge web applications with React.js and Next.js.
+
 
 
 ## 🌐 Socials:
